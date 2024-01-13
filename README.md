@@ -17,4 +17,4 @@
 
 # 📊 Statistiques
 
-<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Amaxi76&show_icons=true&theme=white&rank_icon=github&include_all_commits=true" /><img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amaxi76&layout=compact&langs_count=8&theme=white" />
+<img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=Amaxi76&show_icons=true&theme=white&rank_icon=github&include_all_commits=true" /><img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amaxi76&layout=compact&langs_count=8&theme=white" />
