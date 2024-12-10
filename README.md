@@ -3,9 +3,8 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Gif animé" width="300" height="300" />
 
-- 👨‍🎓 Étudiant en seconde année de **BUT Informatique** à l' **L'IUT du Havre**
+- 👨‍🎓 Étudiant en troisième année de **BUT Informatique** à l' **L'IUT du Havre**
 - ❤️ Mes langages préférés sont Java et SQL
-- Actuellement à la recherche d'un stage de 8 semaines à partir du 15 Avril 2024.
 
 <br><br><br><br>
 
